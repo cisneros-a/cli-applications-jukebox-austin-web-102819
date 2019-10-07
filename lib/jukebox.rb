@@ -18,7 +18,7 @@ def help
   puts "- exit : exits this program"
 end
 
-help
+
 
 def list(array)
   array.each_with_index{ |item, index|
